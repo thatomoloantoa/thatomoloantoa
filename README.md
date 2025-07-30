@@ -1,8 +1,8 @@
 # Hi there, I'm Thato Moloantoa
 
 
-### 💫 About Me:
-<br>-🎓 IT Management NQF 6 graduate from IIE Rosebank College  <br>- 💼 Currently an **IT Support Candidate at CAPACITI**, building AI-powered solutions  <br>- 🌍 Based in South Africa 🇿🇦  <br>- 💡 Passionate about building intelligent tools that solve real-world problems<br>- 🌐 Expanding my developing skills with FNB App Academy<br><br>🌱 Currently Learning<br>- 🧠 Advanced NLP techniques with LLMs  <br>- 🎨 TailwindCSS & ShadCN for modern UI/UX  <br>- 🔗 Integrating AI models with full-stack web apps  <br>- 🌍 AI/ML applications with social impact  <br>- 💻 Frontend tools with backend intelligence  <br>- 🤝 Contributing to open-source AI tools using React, Python & TypeScript<br><br>💡 Projects I'm Working On<br>- 📝 AI-powered Symptoms Checker<br>- ✨ IT Project Management Dashboard Concept  <br>- 🤖 RAG Chatbots and Voice-to-Text Interfaces <br>- 📊 Personal Portfolio
+## 💫 About Me:
+<br>🎓 IT Management NQF 6 graduate from IIE Rosebank College  <br> 💼 Currently an **IT Support Candidate at CAPACITI**, building AI-powered solutions  <br>- 🌍 Based in South Africa 🇿🇦  <br>- 💡 Passionate about building intelligent tools that solve real-world problems<br>- 🌐 Expanding my developing skills with FNB App Academy<br><br>🌱 Currently Learning<br>- 🧠 Advanced NLP techniques with LLMs  <br>- 🎨 TailwindCSS & ShadCN for modern UI/UX  <br>- 🔗 Integrating AI models with full-stack web apps  <br>- 🌍 AI/ML applications with social impact  <br>- 💻 Frontend tools with backend intelligence  <br>- 🤝 Contributing to open-source AI tools using React, Python & TypeScript<br><br>💡 Projects I'm Working On<br>- 📝 AI-powered Symptoms Checker<br>- ✨ IT Project Management Dashboard Concept  <br>- 🤖 RAG Chatbots and Voice-to-Text Interfaces <br>- 📊 Personal Portfolio
 
 
 ## 🌐 Socials:
