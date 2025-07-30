@@ -1,15 +1,15 @@
 ## 👨‍💻 Hi there, I'm Thato Moloantoa
 
-Welcome to my GitHub profile! I'm passionate about technology, innovation, and using AI to solve real-world problems.
+Welcome to my GitHub profile!
 
 ---
 
 ### 🚀 About Me
-- 🌐 **AI & Web Developer**
 - 🎓 IT Management NQF 6 graduate from IIE Rosebank College  
-- 💼 Currently an **IT Support Intern at CAPACITI**, building AI-powered solutions  
+- 💼 Currently an **IT Support Candidate at CAPACITI**, building AI-powered solutions  
 - 🌍 Based in South Africa 🇿🇦  
 - 💡 Passionate about building intelligent tools that solve real-world problems
+- 🌐 Expanding my developing skills with FNB App Academy
 
 ---
 
@@ -24,41 +24,28 @@ Welcome to my GitHub profile! I'm passionate about technology, innovation, and u
 ---
 
 ### 💡 Projects I'm Working On
-- 📝 **AI-powered Resume Builder** (ATS optimization + job matching)  
-- ✨ **Custom AI Content Generator**  
+- 📝 **AI-powered Symptoms Checker**
+- ✨ **IT Project Management Dashboard Concept**  
 - 🤖 **RAG Chatbots** and **Voice-to-Text Interfaces**  
-- 📊 **AI Portfolio** integrating multiple technologies  
-- 🔧 Open-source projects in AI and full-stack development
+- 📊 **Personal Portfolio** 
 
 ---
 
 ### 💻 Tech Stack
 
-**Frontend:**  
-`HTML5` `CSS3` `JavaScript` `React` `TailwindCSS` `ShadCN`
-
-**Backend & APIs:**  
-`Node.js` `Python` `Express.js` `Flask` `OpenAI API` `Gemini API` `Google AI`
-
-**Databases & Cloud:**  
-`MySQL` `Firebase` `Google Cloud`
-
-**AI & ML Tools:**  
-`OpenAI` `Gemini` `LangChain` `Scikit-learn` `Pandas`
+`HTML5` `CSS3` `JavaScript` `React` `TailwindCSS` `Google AI` `MySQL`
 
 ---
 
-### 🤝 Let's Collaborate!
-I'm always open to connecting with like-minded individuals passionate about AI, tech innovation, or building useful, ethical software solutions.
-
----
-
-### 📫 How to Reach Me
+### 📫 Let's connect creatively
 - 📧 Email: [thatomoloantoa127@gmail.com](mailto:thatomoloantoa127@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/thato-moloantoa-6155b2308](https://www.linkedin.com/in/thato-moloantoa-6155b2308)
 
 ---
 
-### ⚡ Fun Fact
-I believe that great AI isn't just smart — it's **empathetic**, **transparent**, and **useful**. I'm fueled by a deep love for learning and a mission to uplift my family and community through tech innovation. 🌍💻
+### ⚡ Variables I live by
+I'm passionate about transforming emotional depth into tech that's accessible and meaningful. Driven by a love for learning and a commitment to uplifting my family and community. I see innovation as a bridge and believe the most impactful AI is empathetic, transparent, and genuinely useful.
+
+---
+🌍Feel free to connect, growth is better shared💻
 
