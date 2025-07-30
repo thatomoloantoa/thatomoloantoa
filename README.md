@@ -4,6 +4,7 @@ Welcome to my GitHub profile! I'm passionate about technology, innovation, and u
 🚀 AI & Web Developer | 🎓 IT Management NQF 6 graduate from IIE Rosebank College | 🌍 Based in South Africa | 💼 Currently an IT Support intern at CAPACITI, building AI-powered solutions
 💡 Passionate about building intelligent tools that solve real-world problems
 
+
 💼 What I’m Working On
 🔧 Building an AI-powered Resume Builder focused on ATS optimization and job matching
 
@@ -16,6 +17,7 @@ Welcome to my GitHub profile! I'm passionate about technology, innovation, and u
 📊 AI Portfolio integrating multiple AI technologies
 
 🔧 Open-source projects using React, Python, or TypeScript
+
 
 🌱 Currently Learning
 Advanced NLP techniques with LLMs
@@ -30,6 +32,7 @@ Frontend tools with backend intelligence
 
 Open-source projects using React, Python, or TypeScript
 
+
 💻 Tech Stack
 Frontend:
 HTML5 | CSS3 | JavaScript
@@ -40,9 +43,9 @@ MySQL
 AI & ML Tools:
 Gemini | OpenAI | Google AI
 
+
 📫 Let’s Connect
 📧 Email: thatomoloantoa127@gmail.com
-
 💼 LinkedIn https://www.linkedin.com/in/thato-moloantoa-6155b2308
 
 
