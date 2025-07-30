@@ -5,7 +5,7 @@
 IT Management NQF 6 graduate from IIE Rosebank College |   Currently an IT Support Candidate at CAPACITI, building AI-powered solutions |  Based in South Africa 🇿🇦  |  Passionate about building intelligent tools that solve real-world problems |  Expanding my developing skills with FNB App Academy <br><br>🌱 Currently Learning<br>-  Advanced NLP techniques with LLMs  <br>-  TailwindCSS & ShadCN for modern UI/UX  <br>-  Integrating AI models with full-stack web apps  <br>-  AI/ML applications with social impact  <br>-  Frontend tools with backend intelligence  <br>-  Contributing to open-source AI tools using React, Python & TypeScript<br><br>💡 Projects I'm Working On<br>-  AI-powered Symptoms Checker<br>-  IT Project Management Dashboard Concept  <br>-  RAG Chatbots and Voice-to-Text Interfaces <br>-  Personal Portfolio
 
 
-### 🌐 Socials:
+### **🌐 Socials:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thato-moloantoa-6155b2308) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thatomoloantoa127@gmail.com) 
 
 ### 💻 Tech Stack:
