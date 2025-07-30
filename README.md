@@ -1,5 +1,5 @@
-## Hi there I'm Thato Moloantoa
-<Welcome to my GitHub profile! I'm passionate about technology, innovation, and using AI to solve real-world problems.!-- You can customize the emoji icons to suit your personality -->
+## 🌐Hi there I'm Thato Moloantoa🌐
+Welcome to my GitHub profile! I'm passionate about technology, innovation, and using AI to solve real-world problems.
 
 🚀 AI & Web Developer | 🎓 IT Management NQF 6 graduate from IIE Rosebank College | 🌍 Based in South Africa | 💼 Currently an IT Support intern at CAPACITI, building AI-powered solutions
 💡 Passionate about building intelligent tools that solve real-world problems
