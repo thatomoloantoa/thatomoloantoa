@@ -1,60 +1,62 @@
-## Hi there I'm Thato Moloantoa
-
+## Hi there 👋 I'm Precious Mhlohlo
+ 
 Welcome to my GitHub profile! I'm passionate about technology, innovation, and using AI to solve real-world problems.
+ 
+### 🚀 About Me
 
-###🚀 About Me
-- 🎓 IT Management NQF 6 graduate from IIE Rosebank College
+- 🎓 IT System Support NQF 5 graduate from Speccon
 
-- 💼 Currently an IT Support Intern at CAPACITI, building AI-powered solutions
+- 💼 Currently an IT Support intern at CAPACITI, building AI-powered solutions
 
 - 🌍 Based in South Africa 🇿🇦
 
-- 💡 Passionate about building intelligent tools that solve real-world problems
+- 🔧 Skilled in troubleshooting, system support, and learning prompt engineering
+ 
+### 🌱 Currently Learning
 
-- 🌐 AI & Web Developer
+- 🧠 Generative AI (OpenAI API, prompt engineering)
 
-###🌱 Currently Learning
-- 🧠 Advanced NLP techniques with LLMs
+- 💻 No-code development with Bubble.io
 
-- 🎨 TailwindCSS & ShadCN for modern UI/UX
-
-- 🔗 Integrating AI models with full-stack web apps
-
-- 🌍 AI/ML applications with social impact
-
-- 💻 Frontend tools with backend intelligence
-
-- 🤝 Contributing to open-source AI tools using React, Python & TypeScript
-
-###💡 Projects I'm Working On
-- 📝 AI-powered Resume Builder (ATS optimization + job matching)
+- ⚙️ End-to-End AI System Architecture
+ 
+### 💡 Projects I'm Working On
 
 - ✨ Custom AI Content Generator
 
 - 🤖 RAG Chatbots and Voice-to-Text Interfaces
 
-- 📊 AI Portfolio integrating multiple technologies
+- 📊 AI Portfolio integrating multiple AI technologies
+ 
+### 💻 Tech Stack
 
-- 🔧 Open-source projects in AI and full-stack development
+**Frontend:**  
 
-###💻 Tech Stack
-**Frontend:**
-`HTML5` `CSS3` `JavaScript` `React` `TailwindCSS` 
+`HTML5` `CSS3` `JavaScript` `React` `Next.js` `FlutterFlow`  
 
-**Backend & APIs:**
-`Node.js` `Python` `Express.js` `OpenAI API` `Gemini API` `Google AI`
+**Backend & APIs:**  
 
-**Databases & AI:**
-`MySQL` ` Open AI` ` Gemini` ` Google AI` 
+`Node.js` `Python` `Firebase` `Express.js` `Flask` `REST APIs` `Gemini API` `OpenAI`  
 
-###🤝 Let's Collaborate!
-I'm always open to connecting with like-minded individuals passionate about AI, tech innovation, or building useful, ethical software solutions.
+**Databases & Cloud:**  
 
-###📫 How to Reach Me
--📧 Email: thatomoloantoa127@gmail.com
+`MySQL` `PostgreSQL` `Firebase Firestore` `Google Cloud` `Azure`  
 
--💼 LinkedIn: linkedin.com/in/thato-moloantoa-6155b2308
+**AI & ML Tools:**  
 
-###⚡ Fun Fact
-I believe that great AI isn't just smart — it's empathetic, transparent, and useful. I'm fueled by a deep love for learning and a mission to uplift my family and community through tech innovation. 🌍💻
+`Gemini` `OpenAI` `Stability AI` `LangChain` `AIF360` `Pandas` `Scikit-learn`  
+ 
+### 🤝 Let's Collaborate!
 
+I'm always open to connecting with others passionate about AI, IT support, or impactful technology.
+ 
+### 📫 How to Reach Me
+
+- Email: mhlohlop@gmail.com
+
+- LinkedIn: (https://www.linkedin.com/in/nosibusiso-mhlohlo-8a73b8180/)
+ 
+### ⚡ Fun Fact
+
+I’m driven by a passion for learning and a goal to support my family through tech innovation.
+ 
