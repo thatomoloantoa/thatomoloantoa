@@ -1,56 +1,60 @@
-## 🌐Hi there I'm Thato Moloantoa🌐
+## Hi there I'm Thato Moloantoa
+
 Welcome to my GitHub profile! I'm passionate about technology, innovation, and using AI to solve real-world problems.
 
-🚀 AI & Web Developer | 🎓 IT Management NQF 6 graduate from IIE Rosebank College | 🌍 Based in South Africa | 💼 Currently an IT Support intern at CAPACITI, building AI-powered solutions
-💡 Passionate about building intelligent tools that solve real-world problems
+###🚀 About Me
+- 🎓 IT Management NQF 6 graduate from IIE Rosebank College
 
+- 💼 Currently an IT Support Intern at CAPACITI, building AI-powered solutions
 
-💼 What I’m Working On
-🔧 Building an AI-powered Resume Builder focused on ATS optimization and job matching
+- 🌍 Based in South Africa 🇿🇦
 
-🤖 Exploring the intersection of machine learning and user-centered design
+- 💡 Passionate about building intelligent tools that solve real-world problems
 
-✨ Custom AI Content Generator
+- 🌐 AI & Web Developer
 
-🤖 RAG Chatbots and Voice-to-Text Interfaces
+###🌱 Currently Learning
+- 🧠 Advanced NLP techniques with LLMs
 
-📊 AI Portfolio integrating multiple AI technologies
+- 🎨 TailwindCSS & ShadCN for modern UI/UX
 
-🔧 Open-source projects using React, Python, or TypeScript
+- 🔗 Integrating AI models with full-stack web apps
 
+- 🌍 AI/ML applications with social impact
 
-🌱 Currently Learning
-Advanced NLP techniques with LLMs
+- 💻 Frontend tools with backend intelligence
 
-TailwindCSS & ShadCN for modern UI/UX
+- 🤝 Contributing to open-source AI tools using React, Python & TypeScript
 
-Integrating AI models with full-stack web apps
+###💡 Projects I'm Working On
+- 📝 AI-powered Resume Builder (ATS optimization + job matching)
 
-AI/ML applications with social impact
+- ✨ Custom AI Content Generator
 
-Frontend tools with backend intelligence
+- 🤖 RAG Chatbots and Voice-to-Text Interfaces
 
-Open-source projects using React, Python, or TypeScript
+- 📊 AI Portfolio integrating multiple technologies
 
+- 🔧 Open-source projects in AI and full-stack development
 
-💻 Tech Stack
-Frontend:
-HTML5 | CSS3 | JavaScript
-Backend & APIs:
-Node.js | Python | Gemini API | OpenAI
-Databases & Cloud:
-MySQL
-AI & ML Tools:
-Gemini | OpenAI | Google AI
+###💻 Tech Stack
+**Frontend:**
+`HTML5` `CSS3` `JavaScript` `React` `TailwindCSS` 
 
+**Backend & APIs:**
+`Node.js` `Python` `Express.js` `OpenAI API` `Gemini API` `Google AI`
 
-📫 Let’s Connect
-📧 Email: thatomoloantoa127@gmail.com
-💼 LinkedIn https://www.linkedin.com/in/thato-moloantoa-6155b2308
+**Databases & AI:**
+`MySQL` ` Open AI` ` Gemini` ` Google AI` 
 
+###🤝 Let's Collaborate!
+I'm always open to connecting with like-minded individuals passionate about AI, tech innovation, or building useful, ethical software solutions.
 
-⚡ Fun Fact
-I believe that great AI isn't just smart but empathetic, transparent, and useful. I'm fueled by a deep love for learning and a commitment to uplifting my family through technological innovation.🌍💻
+###📫 How to Reach Me
+-📧 Email: thatomoloantoa127@gmail.com
 
-Thanks for stopping by! ⭐
+-💼 LinkedIn: linkedin.com/in/thato-moloantoa-6155b2308
+
+###⚡ Fun Fact
+I believe that great AI isn't just smart — it's empathetic, transparent, and useful. I'm fueled by a deep love for learning and a mission to uplift my family and community through tech innovation. 🌍💻
 
